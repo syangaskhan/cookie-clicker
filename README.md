@@ -1,4 +1,4 @@
-You can access the cookie clicker here: <a href = https://syangaskhan.github.io/cookie-clicker/> cookie-clicker </a>
+You can access the cookie clicker here: <a href = https://syangaskhan.github.io/cookie-clicker/ target = _blank> cookie-clicker </a>
 ***
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
